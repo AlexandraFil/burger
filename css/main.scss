@@ -1,0 +1,41 @@
+//colors
+$orange: #e45028;
+$yellow: #f9b43b;
+$black: #2f3234;
+$red: #e35028;
+
+$z-fixed-menu: 100;
+
+//normalize
+@import "../css/_misc/normalize.scss";
+
+// setups
+@import "../css/_misc/mixins.scss";
+@import "../css/_misc/media.scss";
+@import "../css/_misc/fonts.scss";
+@import "../css/_misc/layout.scss";
+
+@import "../css/_misc/animations.scss";
+
+@import "../css/blocks/section.scss";
+@import "../css/blocks/section-title.scss";
+@import "../css/blocks/hero.scss";
+@import "../css/blocks/header.scss";
+@import "../css/blocks/nav.scss";
+@import "../css/blocks/btn.scss";
+@import "../css/blocks/down-arrow.scss";
+@import "../css/blocks/feature.scss";
+@import "../css/blocks/title.scss";
+@import "../css/blocks/scroll-down-btn.scss";
+@import "../css/blocks/best.scss";
+@import "../css/blocks/reviews.scss";
+@import "../css/blocks/order.scss";
+@import "../css/blocks/form.scss";
+@import "../css/blocks/fixed-menu.scss";
+@import "../css/blocks/hamburger-menu.scss";
+@import "../css/blocks/hamburger-menu-link.scss";
+@import "../css/blocks/team.scss";
+@import "../css/blocks/team-acco.scss";
+@import "../css/blocks/menu.scss";
+@import "../css/blocks/menu-acco.scss";
+

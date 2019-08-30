@@ -1,0 +1,7 @@
+.vscode/
+.sass-cache/
+koala.cfg
+.DS_Store
+*.css
+*.css.map
+*.psd
